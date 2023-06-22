@@ -6,4 +6,3 @@ module.exports = {
   "private_key": "9huJX4pdvixm_6OwK-8pYXNrleSEZjZ4Go-2e5VJoA_54LokAQ6LaoHxWCTVZFtoLXIsIqEBPLRW45JyAYAQRw"
    , "openai_key": "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",
 };
-
