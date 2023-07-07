@@ -123,3 +123,4 @@ async function translate(lang, text) {
   async function delay(ms) {
     return new Promise((resolve) => setTimeout(resolve, ms));
   }
+  
